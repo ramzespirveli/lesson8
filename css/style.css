@@ -192,3 +192,27 @@ a :hover{
 h3 {
     font-family: 'Lato';
 }
+.font-icon {
+    margin: 30px;
+    display: flex;
+    justify-content: end;
+    margin-right: 40px;
+}
+.fa-facebook-square {
+    color: #3D37F1;
+
+}
+.fa-youtube {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: red;
+}
+.fa-twitter-square {
+    color: #41EAE3;
+}
+.fa-brands {
+    font-size: 30px;
+}
+.font-icon :hover {
+font-size: 40px;
+}
